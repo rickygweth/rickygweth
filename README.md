@@ -1,10 +1,16 @@
-Ricky Gweth 👋
+Ricky Gweth 
 
 CS Student
 
 Northwest Vista College
 
 San Antonio, Texas, USA
+
+
+Education
+
+
+
 <!--
 **rickygweth/rickygweth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
