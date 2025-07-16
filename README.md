@@ -1,13 +1,18 @@
-Ricky Gweth 
+## Ricky Gweth
 
-CS Student
+CS Student.
+Cerrtified Software Developer.
 
-Northwest Vista College
+## Education
 
-San Antonio, Texas, USA
+- 2025-Currently Northwest Vista College, taking associates degree.
 
+## Skills
 
-Education
+- Programming Languages: Python, SQL
+- Frameworks: Django
+- Databases: PostgreSQL, MySQL
+- Frontend: HTML, CSS, JavaScript, React
 
 
 
